@@ -25,7 +25,7 @@ apt install -y -qq wget curl
 else
 
                 echo -e "\nUnable to detect your OS...\n"
-                echo -e "\nCyberPanel is supported on Ubuntu 18.04, CentOS 7.x and CloudLinux 7.x...\n"
+                echo -e "\niMonkei Panel is supported on Ubuntu 18.04, CentOS 7.x and CloudLinux 7.x...\n"
                 exit 1
 fi
 
